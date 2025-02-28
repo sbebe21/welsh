@@ -17,12 +17,6 @@ html {
     background-position: center;
 }
 
-h1 {
-  font-size: 5rem;
-  text-transform: capitalize;
-  text-align: center;
-  letter-spacing: 2px;
-}
 .box {
     width: 800px;
     height: 100%;
@@ -40,6 +34,14 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;
     font-size; 30px;
 }
+
+h1 {
+  font-size: 30px;
+  text-transform: capitalize;
+  text-align: center;
+  letter-spacing: 2px;
+}
+
 body {
     margin-top: 0;
     font-family: Arial, Helvetica, sans-serif;
