@@ -1,30 +1,40 @@
-body, html {
-            height: 100%;
-            margin: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
+.header {
+    margin-top: -120px;
+    margin-bottom: 20px;
+    height: 400px;
+    width: 1000px;
+    background-image: url('https://i.ibb.co/fJvRSgq/books.jpg');
+    background-size: cover;
+    background-position: center;
+}
 
-body {
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+main,
+html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 .box {
-  width: 800px;
-  height: 500px;
-  border: 0px solid black;
-  padding: 10px;
-  margin: 10px;
-  align: center;
+    width: 800px;
+    height: 100%;
+    border: 0px solid black;
+    padding: 10px;
+    margin: 10px;
+    margin-top: -140px;
+    align-content: center;
 }
 
+body {
+    margin-top: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
 
 /* Style the footer */
 .footer {
-  background-color: #f1f1f1;
-  padding: 10px;
+    background-color: #f1f1f1;
+    padding: 10px;
 }
-
-
