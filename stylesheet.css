@@ -9,8 +9,7 @@ html {
 }
 
 .header {
-    margin-top: 0px;
-    margin-bottom: 20px;
+    margin: 0px;
     height: 400px;
     width: 1000px;
     background-image: url('https://sbebe21.github.io/welsh/header.png');
@@ -23,15 +22,14 @@ html {
     height: 100%;
     border: 0px solid black;
     padding: 10px;
-    margin: 10px;
-    margin-top: 0px;
+    margin: 0px;
     align-content: center;
 }
 .box2 {
     width: 800px;
     height: 100%;
     align-content: center;
-    margin-top: 0px;
+    margin: 0px;
     font-family: Arial, Helvetica, sans-serif;
     font-size; 30px;
 }
@@ -44,7 +42,7 @@ h1 {
 }
 
 body {
-    margin-top: 0;
+    margin: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -52,4 +50,10 @@ body {
 .footer {
     background-color: #f1f1f1;
     padding: 10px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
