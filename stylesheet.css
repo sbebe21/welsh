@@ -6,7 +6,6 @@
 
 main,
 html {
-    height: 100%;
     margin: 0;
     display: flex;
     justify-content: center;
@@ -27,7 +26,6 @@ html {
 
 .box {
     width: 800px;
-    height: 100%;
     border: 0px solid black;
     padding: 10px;
     margin: 0px;
@@ -37,7 +35,6 @@ html {
 
 .box2 {
     width: 800px;
-    height: 100%;
     align-content: center;
     margin: 0px;
     font-family: Arial, Helvetica, sans-serif;
