@@ -1,12 +1,4 @@
-.header {
-    margin-top: -120px;
-    margin-bottom: 20px;
-    height: 400px;
-    width: 1000px;
-    background-image: url('https://i.ibb.co/fJvRSgq/books.jpg');
-    background-size: cover;
-    background-position: center;
-}
+
 
 main,
 html {
@@ -16,6 +8,15 @@ html {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+}
+.header {
+    margin-top: -120px;
+    margin-bottom: 20px;
+    height: 400px;
+    width: 1000px;
+    background-image: url('https://i.ibb.co/fJvRSgq/books.jpg');
+    background-size: cover;
+    background-position: center;
 }
 
 .box {
