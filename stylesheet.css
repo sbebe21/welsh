@@ -17,6 +17,12 @@ html {
     background-position: center;
 }
 
+h1 {
+  font-size: 5rem;
+  text-transform: capitalize;
+  text-align: center;
+  letter-spacing: 2px;
+}
 .box {
     width: 800px;
     height: 100%;
