@@ -40,17 +40,17 @@ body {
 a:link {
     color: #5c615d;
     text-decoration: none;
-  }
+}
 
   a:visited {
     color: #5c615d;
     text-decoration: none;
-  }
+}
 
   a:hover {
     color: #64b57c;
     text-decoration: underline;
-  }
+ }
 
 .footer {
     position: fixed;
