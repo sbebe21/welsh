@@ -13,8 +13,8 @@ html {
     margin: 0px;
     height: 400px;
     width: 1000px;
-    background-image: url('https://sbebe21.github.io/welsh/header.png');
     background-size: cover;
+    background-color: #c0c0c0;
     background-position: center;
     display: block;
 }
