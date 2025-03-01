@@ -12,7 +12,7 @@ html {
 .header {
     margin: 0px;
     height: 400px;
-    width: 1000px;
+    width: 100%;
     background-size: cover;
     background-color: #c0c0c0;
     background-position: center;
